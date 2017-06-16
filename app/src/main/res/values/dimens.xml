@@ -1,3 +1,32 @@
 <resources>
-    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    /*主页*/
+    <dimen name="activity_title_font">20sp</dimen>/*主页title字体大小*/
+    <dimen name="activity_bottom_font">18sp</dimen>/*主页底部字体大小*/
+    <dimen name="activity_top">56dp</dimen>/*主页title的高度*/
+    <dimen name="activity_bottom">60dp</dimen>/*主页底部的高度*/
+    <dimen name="activity_bottom_icon">35dp</dimen>/*主页底部icon的高度与长度*/
+    /*轮播图*/
+    <dimen name="carousel_height">170dp</dimen>/*轮播图大小*/
+    <dimen name="carousel_image">120dp</dimen>/*轮播图image*/
+    <dimen name="carousel_head1">18sp</dimen>/*轮播图主标题*/
+    <dimen name="carousel_head2">10sp</dimen>/*轮播图副标题*/
+    /*行*/
+    <dimen name="line_standard_input">50dp</dimen>
+    <dimen name="line_standard_item">50dp</dimen>
+    <dimen name="line_standard_details">40dp</dimen>
+    <dimen name="line_standard_item_pic">30dp</dimen>
+    <dimen name="line_standard_cards">90dp</dimen>
+    /*常规字*/
+    <dimen name="font_smallest">12sp</dimen>
+    <dimen name="font_smaller">14sp</dimen>
+    <dimen name="font_input">16sp</dimen>
+    <dimen name="font_large">18sp</dimen>
+    <dimen name="font_larger">20sp</dimen>
+    <dimen name="font_largest">22sp</dimen>
+    /*按钮*/
+    <dimen name="button_standard">18sp</dimen>
+    /*其他*/
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
 </resources>

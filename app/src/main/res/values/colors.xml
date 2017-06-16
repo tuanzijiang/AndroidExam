@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    /*主题色*/
+    <color name="theme">#03a9f4</color>
+    <color name="theme_background">#f0f0f2</color>
+    /*常用色*/
+    <color name="button_verify">#56D176</color>
+    <color name="button_quit">#f6163c</color>
+    <color name="button_no_click">#aaa</color>
+    <color name="font_standard">#666</color>
+    <color name="font_weight">#333</color>
+    <color name="font_light">#ccc</color>
+    <color name="white">#ffffff</color>
+    <color name="gary">#898989</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- 控件颜色（ViewColor简写为VC） -->
+    <color name="VC_solid">#E5E5EA</color>
+    <color name="VC_stroke">#C6C9CB</color>
+    <color name="VC_divide_line">#A7AAAD</color>
 </resources>
